@@ -1,1 +1,0 @@
-Hello! Git~ ver 3.0
